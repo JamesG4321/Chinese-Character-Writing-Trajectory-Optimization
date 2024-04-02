@@ -13,7 +13,7 @@ The data collection of handwriting trajectory was built in unity. The tool can b
 
 ## Data Processing
 
-The data processing of this project uses a Jupyter notebook written by me. The notebook can be [found here](https://github.com/JamesG4321/Chinese-Character-Writing-Trajectory-Optimization/blob/main/EE_546_handwriting_project_James_Guo.ipynb).
+The data processing of this project uses python. The Jupyter notebook can be [found here](https://github.com/JamesG4321/Chinese-Character-Writing-Trajectory-Optimization/blob/main/EE_546_handwriting_project_James_Guo.ipynb).
 
 ## References
 
