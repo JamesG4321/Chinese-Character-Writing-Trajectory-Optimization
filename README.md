@@ -1,7 +1,7 @@
 # Chinese Character Writing Trajectory Optimization
 For my optimization class, I created a Chinese character trajectory optimization tool inspired Inspired by a trajectory learning algorithm used on RC helicopters. Tools used: Jupyter, Unity
 
-![Screenshot of Results](https://github.com/JamesG4321/Chinese-Character-Writing-Trajectory-Optimization/commit/473de93c6cdae054897943cb8c1c44dce65ae5a7)
+![Screenshot of Results](https://github.com/JamesG4321/Chinese-Character-Writing-Trajectory-Optimization/blob/main/ReadMeImages/CharacterTrajectories.PNG)
 
 ## Description
 
